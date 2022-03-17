@@ -1,0 +1,2 @@
+# awesome-qlik
+Awesome Qlik
