@@ -19,6 +19,9 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
   - [Training 👨🏻‍🏫](#training-)
 
 
+## Downloads
+- [Qlik downloads on Github](https://github.com/qlik-download) - All Qlik downloads on Github, faster than download.qlik.com ;)
+
 ## Blogs 📑
 - [Qlik Blog](https://www.qlik.com/blog/) - The official Qlik blog
 - [QlikFix](http://www.qlikfix.com) - Qlik tips, tricks and tutorials, by Bitmetric / Barry Harmsen
