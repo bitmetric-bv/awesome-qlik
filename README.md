@@ -19,6 +19,9 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
   - [Training 👨🏻‍🏫](#training-)
 
 
+## Downloads
+- [Qlik downloads on Github](https://github.com/qlik-download) - All Qlik downloads on Github, faster than download.qlik.com ;)
+
 ## Blogs 📑
 - [Qlik Blog](https://www.qlik.com/blog/) - The official Qlik blog
 - [QlikFix](http://www.qlikfix.com) - Qlik tips, tricks and tutorials, by Bitmetric / Barry Harmsen
@@ -53,6 +56,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 ## Resources / tools 🛠
 - [SenseTheme](https://sensetheme.com) - WYSIWYG editor for creating Qlik Sense themes (freemium)
+- [BeautifyMe](https://github.com/iviasensio/BeautifyMe) - Extension to modify the appearance of Qlik Sense, also offers CSS export
 - [Catwalk](https://catwalk.qlik.dev/?engine_url=wss://sense-demo.qlik.com/app/069279ac-a7e8-4405-826d-0cd3de7d48e0) - Online data model explorer for Qlik Sense
 
 
