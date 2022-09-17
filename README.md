@@ -26,6 +26,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 ## Blogs 📑
 - [Qlik Blog](https://www.qlik.com/blog/) - The official Qlik blog
 - [QlikFix](http://www.qlikfix.com) - Qlik tips, tricks and tutorials, by Bitmetric / Barry Harmsen
+- [Bitmetric Qlik blog](https://www.bitmetric.nl/tag/qlik/) - Qlik articles by Bitmetric, includes Friday Qlik Test Prep questions
 - [QlikView Cookbook](https://qlikviewcookbook.com/) - Recipes for Qlik success, by Rob Wunderlich
 - [Q-Tips](https://www.naturalsynergies.com/blog/) - by Natural Synergies / Oleg Troyansky
 - [The Qlik Board](http://qlikboard.com/) - Practical posts for Qlik fanatics, by Bill Lay
