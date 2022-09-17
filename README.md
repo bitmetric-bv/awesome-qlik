@@ -7,6 +7,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 # Table of Contents
 - [Awesome Qlik ![Awesome](#awesome-qlik-awesomeawesome-link)
 - [Table of Contents](#table-of-contents)
+  - [Downloads](#downloads)
   - [Blogs 📑](#blogs-)
   - [YouTube 🎥](#youtube-)
   - [Extensions 📊](#extensions-)
@@ -41,6 +42,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 ## Extensions 📊
 - [BeautifyMe](https://github.com/iviasensio/BeautifyMe) - allows a high customization of the app with no code and no CSS knowledge.
 - [PinIt](https://getpinit.com) - no-code solution to combine visualizations from multiple Qlik Sense dashboards into personal pinboards (freemium)
+- [QuickTableViewer](https://github.com/ChristofSchwarz/qsQuickTableViewer) - Qlik Sense Extension to quickly get all fields of a data-model table into a standard Qlik Sense Table object
 - [Vizlib Library](https://home.vizlib.com/vizlib-library-for-qlik-sense/) - a large library of additional visualizations for Qlik Sense (freemium)
 
 ## Add-ons
@@ -56,7 +58,6 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 ## Resources / tools 🛠
 - [SenseTheme](https://sensetheme.com) - WYSIWYG editor for creating Qlik Sense themes (freemium)
-- [BeautifyMe](https://github.com/iviasensio/BeautifyMe) - Extension to modify the appearance of Qlik Sense, also offers CSS export
 - [Catwalk](https://catwalk.qlik.dev/?engine_url=wss://sense-demo.qlik.com/app/069279ac-a7e8-4405-826d-0cd3de7d48e0) - Online data model explorer for Qlik Sense
 
 
