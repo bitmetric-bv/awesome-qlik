@@ -36,6 +36,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 
 ## Extensions 📊
+- [BeautifyMe](https://github.com/iviasensio/BeautifyMe) - allows a high customization of the app with no code and no CSS knowledge.
 - [PinIt](https://getpinit.com) - no-code solution to combine visualizations from multiple Qlik Sense dashboards into personal pinboards (freemium)
 - [Vizlib Library](https://home.vizlib.com/vizlib-library-for-qlik-sense/) - a large library of additional visualizations for Qlik Sense (freemium)
 
@@ -45,6 +46,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [Qalyptus](https://www.qalyptus.com/) - Reporting for QlikView and Qlik Sense
 
 ### Version Control
+- [Gitoqlok](https://gitoqlik.com/) - Gitoqlok is easy-to-use app version controller for Qlik Sense
 - [Platform Manager](https://www.platformmanager.com/) - for QlikView and Qlik Sense
 - [WIP](https://www.ebiexperts.com/qlik-source-control/) - for Qlikview, Qlik Sense and NPrinting
 - [Soterre](https://motio.com/products/soterre/soterre-for-qlik-sense/) - for Qlik Sense
@@ -55,7 +57,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 
 ## Guides 📘
-- [Bitmetric Qlik Sense Coding Conventions](http://www.qlikfix.com/2021/12/06/bitmetric-qlik-sense-coding-conventions-free-download/)
+- [Bitmetric Qlik Sense Coding Conventions](https://www.bitmetric.nl/blog/bitmetric-qlik-sense-coding-conventions-free-download/)
 - [Bitmetric QlikView Coding Conventions](http://www.bitmetric.nl/bitmetric-qlikview-coding-conventions/)
 
 
