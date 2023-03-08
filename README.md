@@ -5,19 +5,17 @@
 A curated list of awesome resources, blogs, extensions, add-ons, style guides, books and other cool things for Qlik
 
 # Table of Contents
-- [Awesome Qlik ![Awesome](#awesome-qlik-awesomeawesome-link)
-- [Table of Contents](#table-of-contents)
-  - [Downloads](#downloads)
-  - [Blogs 📑](#blogs-)
-  - [YouTube 🎥](#youtube-)
-  - [Extensions 📊](#extensions-)
-  - [Add-ons](#add-ons)
-    - [Reporting](#reporting)
-    - [Version Control](#version-control)
-  - [Resources / tools 🛠](#resources--tools-)
-  - [Guides 📘](#guides-)
-  - [Books 📚](#books-)
-  - [Training 👨🏻‍🏫](#training-)
+- [Downloads](#downloads)
+- [Blogs 📑](#blogs-)
+- [YouTube 🎥](#youtube-)
+- [Extensions 📊](#extensions-)
+- [Add-ons](#add-ons)
+  - [Reporting](#reporting)
+  - [Version Control](#version-control)
+- [Resources / tools 🛠](#resources--tools-)
+- [Guides 📘](#guides-)
+- [Books 📚](#books-)
+- [Training 👨🏻‍🏫](#training-)
 
 
 ## Downloads
@@ -60,7 +58,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 ## Resources / tools 🛠
 - [SenseTheme](https://sensetheme.com) - WYSIWYG editor for creating Qlik Sense themes (freemium)
 - [Catwalk](https://catwalk.qlik.dev/?engine_url=wss://sense-demo.qlik.com/app/069279ac-a7e8-4405-826d-0cd3de7d48e0) - Online data model explorer for Qlik Sense
-
+- [Mockaroo](https://www.mockaroo.com/) - Random data generator
 
 ## Guides 📘
 - [Bitmetric Qlik Sense Coding Conventions](https://www.bitmetric.nl/blog/bitmetric-qlik-sense-coding-conventions-free-download/)
