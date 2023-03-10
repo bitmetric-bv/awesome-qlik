@@ -81,3 +81,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 ## Training 👨🏻‍🏫
 - [Masters Summit for Qlik](https://masterssummit.com/) - Yearly conference and training
 - [Websy Academy](https://websy.academy/) - Online learning
+
+
+## Git Repositories 🚧
+- [World-Countries-Regions for Qlik](https://github.com/tonikautto/world-countries-regions-qlik)
