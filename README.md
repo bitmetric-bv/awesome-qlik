@@ -85,3 +85,6 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 ## Git Repositories 🚧
 - [World-Countries-Regions for Qlik](https://github.com/tonikautto/world-countries-regions-qlik)
+- [Qlik Downloads](https://github.com/qlik-download)
+- [RobWunderlich's Qlikview-Components](https://github.com/RobWunderlich/Qlikview-Components)
+- [Adam Haydon's Qlik CLI for Windows](https://github.com/ahaydon/Qlik-Cli-Windows)
