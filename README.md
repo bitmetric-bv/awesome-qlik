@@ -40,6 +40,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 ## Extensions 📊
 - [BeautifyMe](https://github.com/iviasensio/BeautifyMe) - allows a high customization of the app with no code and no CSS knowledge.
+- [GINQO Master Item Manager](https://github.com/GINQO/Master-Item-Manager) - extension that can load and create master items from a table within Qlik, making the management and creation of them much easier
 - [PinIt](https://getpinit.com) - no-code solution to combine visualizations from multiple Qlik Sense dashboards into personal pinboards (freemium)
 - [QuickTableViewer](https://github.com/ChristofSchwarz/qsQuickTableViewer) - Qlik Sense Extension to quickly get all fields of a data-model table into a standard Qlik Sense Table object
 - [Vizlib Library](https://home.vizlib.com/vizlib-library-for-qlik-sense/) - a large library of additional visualizations for Qlik Sense (freemium)
