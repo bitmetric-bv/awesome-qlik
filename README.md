@@ -5,17 +5,20 @@
 A curated list of awesome resources, blogs, extensions, add-ons, style guides, books and other cool things for Qlik
 
 # Table of Contents
-- [Downloads](#downloads)
-- [Blogs 📑](#blogs-)
-- [YouTube 🎥](#youtube-)
-- [Extensions 📊](#extensions-)
-- [Add-ons](#add-ons)
-  - [Reporting](#reporting)
-  - [Version Control](#version-control)
-- [Resources / tools 🛠](#resources--tools-)
-- [Guides 📘](#guides-)
-- [Books 📚](#books-)
-- [Training 👨🏻‍🏫](#training-)
+- [Awesome Qlik ](#awesome-qlik-)
+- [Table of Contents](#table-of-contents)
+  - [Downloads](#downloads)
+  - [Blogs 📑](#blogs-)
+  - [YouTube 🎥](#youtube-)
+  - [Extensions 📊](#extensions-)
+  - [Add-ons](#add-ons)
+    - [Reporting](#reporting)
+    - [Version Control](#version-control)
+  - [Resources / tools 🛠](#resources--tools-)
+  - [Guides 📘](#guides-)
+  - [Books 📚](#books-)
+  - [Training 👨🏻‍🏫](#training-)
+  - [Git Repositories 🚧](#git-repositories-)
 
 
 ## Downloads
@@ -86,6 +89,5 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 ## Git Repositories 🚧
 - [World-Countries-Regions for Qlik](https://github.com/tonikautto/world-countries-regions-qlik)
-- [Qlik Downloads](https://github.com/qlik-download)
 - [RobWunderlich's Qlikview-Components](https://github.com/RobWunderlich/Qlikview-Components)
 - [Adam Haydon's Qlik CLI for Windows](https://github.com/ahaydon/Qlik-Cli-Windows)
