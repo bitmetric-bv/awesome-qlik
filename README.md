@@ -63,6 +63,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [SenseTheme](https://sensetheme.com) - WYSIWYG editor for creating Qlik Sense themes (freemium)
 - [Catwalk](https://catwalk.qlik.dev/?engine_url=wss://sense-demo.qlik.com/app/069279ac-a7e8-4405-826d-0cd3de7d48e0) - Online data model explorer for Qlik Sense
 - [Mockaroo](https://www.mockaroo.com/) - Random data generator
+- [Websocket Connectivity Tester](https://github.com/flautrup/QlikSenseWebsocketConnectivityTester) - Used to assess websocket connectivity to your Qlik Sense installation
 
 ## Guides 📘
 - [Bitmetric Qlik Sense Coding Conventions](https://www.bitmetric.nl/blog/bitmetric-qlik-sense-coding-conventions-free-download/)
