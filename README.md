@@ -64,6 +64,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [Catwalk](https://catwalk.qlik.dev/?engine_url=wss://sense-demo.qlik.com/app/069279ac-a7e8-4405-826d-0cd3de7d48e0) - Online data model explorer for Qlik Sense
 - [Mockaroo](https://www.mockaroo.com/) - Random data generator
 - [Websocket Connectivity Tester](https://github.com/flautrup/QlikSenseWebsocketConnectivityTester) - Used to assess websocket connectivity to your Qlik Sense installation
+- [QS Variable Remover](javascript:(function()%7Bfunction callback()%7Bconsole.log("For updates see https%3A%2F%2Fgithub.com%2Fwithdave%2Fqlik-sense-variable-destroy")%7Dvar s%3Ddocument.createElement("script")%3Bs.src%3D"https%3A%2F%2Fwithdave.github.io%2Fqsvd%2Fqsvd.min.js"%3Bif(s.addEventListener)%7Bs.addEventListener("load"%2Ccallback%2Cfalse)%7Delse if(s.readyState)%7Bs.onreadystatechange%3Dcallback%7Ddocument.body.appendChild(s)%3B%7D)()) - Bookmark this to remove all variables in your opened app
 
 ## Guides 📘
 - [Bitmetric Qlik Sense Coding Conventions](https://www.bitmetric.nl/blog/bitmetric-qlik-sense-coding-conventions-free-download/)
