@@ -74,7 +74,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [Adam Haydon's Qlik CLI for Windows](https://github.com/ahaydon/Qlik-Cli-Windows)
 - [Websocket Connectivity Tester](https://github.com/flautrup/QlikSenseWebsocketConnectivityTester) - Used to assess websocket connectivity to your Qlik Sense installation
 - [QS Variable Remover](https://withdave.github.io/qsvd/) - This script will remove ALL variables from your opened Qlik App. Add this script as a bookmark to your browser and use it to remove all variables in your opened app.
-- 
+  
 
 ## Guides 📘
 - [Bitmetric Qlik Sense Coding Conventions](https://www.bitmetric.nl/blog/bitmetric-qlik-sense-coding-conventions-free-download/)
