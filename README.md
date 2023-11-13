@@ -14,15 +14,17 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
   - [Add-ons](#add-ons)
     - [Reporting](#reporting)
     - [Version Control](#version-control)
-  - [Resources / tools 🛠](#resources--tools-)
+  - [Resources / tools / libraries 🛠](#resources--tools--libraries-)
+  - [Automation](#automation)
   - [Guides 📘](#guides-)
   - [Books 📚](#books-)
   - [Training 👨🏻‍🏫](#training-)
-  - [Git Repositories 🚧](#git-repositories-)
+  - [Data sources 🚧](#data-sources-)
 
 
 ## Downloads
 - [Qlik downloads on Github](https://github.com/qlik-download) - All Qlik downloads on Github, faster than download.qlik.com ;)
+
 
 ## Blogs 📑
 - [Qlik Blog](https://www.qlik.com/blog/) - The official Qlik blog
@@ -37,6 +39,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [Data on the Rocks](https://dataonthe.rocks/) - Collective Qlik blog
 - [Qlik Tips](https://www.qliktips.com/) - by Stephen Redmond
 
+
 ## YouTube 🎥
 - [Christof Schwarz](https://www.quickintelligence.co.uk/blog/) - by Christof Schwarz
 
@@ -44,14 +47,16 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 ## Extensions 📊
 - [BeautifyMe](https://github.com/iviasensio/BeautifyMe) - allows a high customization of the app with no code and no CSS knowledge.
 - [GINQO Master Item Manager](https://github.com/GINQO/Master-Item-Manager) - extension that can load and create master items from a table within Qlik, making the management and creation of them much easier
-- [PinIt](https://getpinit.com) - no-code solution to combine visualizations from multiple Qlik Sense dashboards into personal pinboards (freemium)
 - [QuickTableViewer](https://github.com/ChristofSchwarz/qsQuickTableViewer) - Qlik Sense Extension to quickly get all fields of a data-model table into a standard Qlik Sense Table object
 - [Vizlib Library](https://home.vizlib.com/vizlib-library-for-qlik-sense/) - a large library of additional visualizations for Qlik Sense (freemium)
+
 
 ## Add-ons
 ### Reporting
 - [Mail & Deploy](https://www.mail-and-deploy.com/) - Reporting suite for QlikView, Qlik Sense and Qlik Sense SaaS
 - [Qalyptus](https://www.qalyptus.com/) - Reporting for QlikView and Qlik Sense
+- [ancoreShare](https://ancoresoft.com/ancoreshare-extension/) - Reporting for Qlik Sense, also as just an extension
+
 
 ### Version Control
 - [Gitoqlok](https://gitoqlik.com/) - Gitoqlok is easy-to-use app version controller for Qlik Sense
@@ -59,10 +64,18 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [WIP](https://www.ebiexperts.com/qlik-source-control/) - for Qlikview, Qlik Sense and NPrinting
 - [Soterre](https://motio.com/products/soterre/soterre-for-qlik-sense/) - for Qlik Sense
 
-## Resources / tools 🛠
+
+## Resources / tools / libraries 🛠
+- [Butler](https://butler.ptarmiganlabs.com/) - Alerting, advanced task scheduling and much more for Qlik Sense Enterprise on Windows
+- [Butler SOS](https://butler-sos.ptarmiganlabs.com/about/) - Operational monitoring of Qlik Sense Enterprise on Windows
 - [SenseTheme](https://sensetheme.com) - WYSIWYG editor for creating Qlik Sense themes (freemium)
 - [Catwalk](https://catwalk.qlik.dev/?engine_url=wss://sense-demo.qlik.com/app/069279ac-a7e8-4405-826d-0cd3de7d48e0) - Online data model explorer for Qlik Sense
 - [Mockaroo](https://www.mockaroo.com/) - Random data generator
+- [Rob Wunderlich's Qlikview-Components](https://github.com/RobWunderlich/Qlikview-Components)
+
+
+## Automation
+- [Adam Haydon's Qlik CLI for Windows](https://github.com/ahaydon/Qlik-Cli-Windows)
 
 ## Guides 📘
 - [Bitmetric Qlik Sense Coding Conventions](https://www.bitmetric.nl/blog/bitmetric-qlik-sense-coding-conventions-free-download/)
@@ -87,7 +100,5 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [Websy Academy](https://websy.academy/) - Online learning
 
 
-## Git Repositories 🚧
+## Data sources 🚧
 - [World-Countries-Regions for Qlik](https://github.com/tonikautto/world-countries-regions-qlik)
-- [RobWunderlich's Qlikview-Components](https://github.com/RobWunderlich/Qlikview-Components)
-- [Adam Haydon's Qlik CLI for Windows](https://github.com/ahaydon/Qlik-Cli-Windows)
