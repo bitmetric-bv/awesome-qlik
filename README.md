@@ -101,3 +101,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 ## Data sources 🚧
 - [World-Countries-Regions for Qlik](https://github.com/tonikautto/world-countries-regions-qlik)
+
+
+## Web development
+- [Awesome Qlik Analytics Platform](https://github.com/stefanwalther/awesome-qap) - an awesome list for Qlik integration topics (slightly dated)
