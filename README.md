@@ -97,7 +97,8 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 ## Training 👨🏻‍🏫
 - [Masters Summit for Qlik](https://masterssummit.com/) - Yearly conference and training
 - [Websy Academy](https://websy.academy/) - Online learning
-
+- [QExam Study Guide - IOS] (https://apps.apple.com/nl/app/q-exam-study-guide-pro/id6499238868) - IOS app with Qlik certifcation prep questions
+- [QExam Study Guide - Android] (https://play.google.com/store/apps/details?id=br.com.qexamstudyguide) - Android app with Qlik certifcation prep questions
 
 ## Data sources 🚧
 - [World-Countries-Regions for Qlik](https://github.com/tonikautto/world-countries-regions-qlik)
