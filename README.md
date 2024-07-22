@@ -22,13 +22,21 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 
 
 ## Downloads
-- [Qlik downloads on Github](https://github.com/qlik-download) - All Qlik downloads on Github, faster than download.qlik.com ;)
+- [Download Qlik Sense Enterprise](https://www.bitmetric.nl/qlik-download/download-qlik-sense-enterprise/)
+- [Download Qlik Sense Desktop](https://www.bitmetric.nl/qlik-download/download-qlik-sense-desktop/)
+- [Download QlikView Desktop, QlikView Personal Edition, QlikView Server](https://www.bitmetric.nl/qlik-download/download-qlikview/)
+- [Download Qlik NPrinting](https://www.bitmetric.nl/qlik-download/download-qlik-nprinting/)
+- [Download Qlik Web Connectors](https://www.bitmetric.nl/qlik-download/download-qlik-web-connectors/)
+- [Download Qlik Enterprise Manager](https://www.bitmetric.nl/qlik-download/download-qlik-enterprise-manager/)
+- [Download Qlik Replicate](https://www.bitmetric.nl/qlik-download/download-qlik-replicate/)
+- [Download Qlik Compose](https://www.bitmetric.nl/qlik-download/download-qlik-compose/)
+- [All Qlik downloads on Github](https://github.com/qlik-download)
 
 
 ## Blogs 📑
 - [Qlik Blog](https://www.qlik.com/blog/) - The official Qlik blog
-- [QlikFix](http://www.qlikfix.com) - Qlik tips, tricks and tutorials, by Bitmetric / Barry Harmsen
 - [Bitmetric Qlik blog](https://www.bitmetric.nl/tag/qlik/) - Qlik articles by Bitmetric, includes Friday Qlik Test Prep questions
+- [QlikFix](http://www.qlikfix.com) - Qlik tips, tricks and tutorials, by Bitmetric / Barry Harmsen
 - [QlikView Cookbook](https://qlikviewcookbook.com/) - Recipes for Qlik success, by Rob Wunderlich
 - [Q-Tips](https://www.naturalsynergies.com/blog/) - by Natural Synergies / Oleg Troyansky
 - [The Qlik Board](http://qlikboard.com/) - Practical posts for Qlik fanatics, by Bill Lay
@@ -79,6 +87,7 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 ## Guides 📘
 - [Bitmetric Qlik Sense Coding Conventions](https://www.bitmetric.nl/blog/bitmetric-qlik-sense-coding-conventions-free-download/)
 - [Bitmetric QlikView Coding Conventions](http://www.bitmetric.nl/bitmetric-qlikview-coding-conventions/)
+- [Qlik Cheat Sheet for New Users](https://www.bitmetric.nl/qlik-download/qlik-cheat-sheet-new-user/) -  An easy reference that helps new users to find their way through the Qlik hub, navigate dashboards, select and filter data.
 
 
 ## Books 📚
