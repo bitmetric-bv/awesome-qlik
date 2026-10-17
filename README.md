@@ -82,6 +82,8 @@ A curated list of awesome resources, blogs, extensions, add-ons, style guides, b
 - [Adam Haydon's Qlik CLI for Windows](https://github.com/ahaydon/Qlik-Cli-Windows)
 - [Websocket Connectivity Tester](https://github.com/flautrup/QlikSenseWebsocketConnectivityTester) - Used to assess websocket connectivity to your Qlik Sense installation
 - [QS Variable Remover](https://withdave.github.io/qsvd/) - This script will remove ALL variables from your opened Qlik App. Add this script as a bookmark to your browser and use it to remove all variables in your opened app.
+- [qlinter](https://github.com/MuellerConstantin/qlinter) - Open-source linter and formatter for Qlik load scripts. Inline feedback and one-click formatting in the Data Load Editor (Chrome extension), plus VS Code extension and CLI for CI.
+- [PyQvd](https://github.com/MuellerConstantin/PyQvd) - Python library for reading and writing QVD files, with pandas support.
   
 
 ## Guides 📘
